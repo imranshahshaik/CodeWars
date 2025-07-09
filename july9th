@@ -14,3 +14,7 @@ for(let i = 0; i<array.length; i++){
 console.log('sum of second lowest and second highest is: ', secondMax + array[1])
 
 https://www.youtube.com/watch?v=5pj8xNFVuWw explanation
+learnings: 1. js doesnt have negative indices like python array[-2] is undefined.
+2. any comparision with NaN is false. undefined <1 undefined typecasts to NaN so false.
+3. array.sort() will manipulate the original array
+4. cant auto inititalize 3 variables a=b=c=0 like python
