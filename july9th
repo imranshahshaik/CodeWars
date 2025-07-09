@@ -1,0 +1,14 @@
+//Alert the sum of the second lowest and the second highest number
+
+const array = [1,2,0,3,4,5,6]
+let max= -Infinity, secondMax = -Infinity;
+console.log(1>undefined)
+array.sort()
+console.log(array)
+for(let i = 0; i<array.length; i++){
+    if(array[i]>max){
+        secondMax = max;
+        max = array[i];
+    }
+}
+console.log('sum of second lowest and second highest is: ', secondMax + array[1])
