@@ -1,0 +1,81 @@
+//Create a mouse object that has four properties and three methods
+//1 object literal
+const mouse = {
+    color:'black',
+    size:43,
+    weight:200,
+    leftClick(){
+        console.log('left button clicked!')
+    },
+    rightClick(){
+        console.log('right button clicked!')
+    },
+    middleClick(){
+        console.log('middle button clicked!')
+    }
+}
+// console.log(mouse)
+//2 factory function
+function factoryMouse(color,size,weight){
+    return{
+         color,
+    size,
+    weight,
+    leftClick(){
+        console.log('left button clicked!')
+    },
+    rightClick(){
+        console.log('right button clicked!')
+    },
+    middleClick(){
+        console.log('middle button clicked!')
+    }
+    }
+}
+
+const newMouse = factoryMouse('white', 20, 0.4)
+// console.log(newMouse)
+
+// 3 constructor
+function mouseConstructor(color,size,weight){
+
+
+    this.color = color
+    this.size = size
+    this.weight = weight
+    this.leftClick = function leftClick(){ //function definition
+        console.log('left button clicked!')
+    }
+   this.rightClick = ()=>{ //arrow function anonymous
+        console.log('right button clicked!')
+    }
+    this.middleClick= function(){ //function expression anonymous
+        console.log('middle button clicked!')
+    }
+    }
+const secondMouse = new mouseConstructor('red', 3,2)
+// console.log(secondMouse)
+
+// 4 class 
+
+class Mouse {
+    constructor(color, size, weight){
+        this.color = color
+        this.size = size
+        this.weight = weight
+
+    }
+
+        leftClick(){
+        console.log('left button clicked!')
+    }
+    rightClick(){
+        console.log('right button clicked!')
+    }
+    middleClick(){
+        console.log('middle button clicked!')
+    }
+
+}
+const classMOuse = new Mouse('red', 4,5)
+console.log(classMOuse)
