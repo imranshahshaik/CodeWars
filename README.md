@@ -14,12 +14,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imranshahshaik/CodeWars/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imranshahshaik/CodeWars/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imranshahshaik/CodeWars/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/imranshahshaik/CodeWars/tree/master/0155-min-stack) |
 | [0946-validate-stack-sequences](https://github.com/imranshahshaik/CodeWars/tree/master/0946-validate-stack-sequences) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imranshahshaik/CodeWars/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
