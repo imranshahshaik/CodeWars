@@ -10,6 +10,7 @@
 | [0946-validate-stack-sequences](https://github.com/imranshahshaik/CodeWars/tree/master/0946-validate-stack-sequences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/imranshahshaik/CodeWars/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/imranshahshaik/CodeWars/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/imranshahshaik/CodeWars/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/imranshahshaik/CodeWars/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/imranshahshaik/CodeWars/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
