@@ -9,6 +9,7 @@
 | [0704-binary-search](https://github.com/imranshahshaik/CodeWars/tree/master/0704-binary-search) |
 | [0946-validate-stack-sequences](https://github.com/imranshahshaik/CodeWars/tree/master/0946-validate-stack-sequences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/imranshahshaik/CodeWars/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/imranshahshaik/CodeWars/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/imranshahshaik/CodeWars/tree/master/1394-find-lucky-integer-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/imranshahshaik/CodeWars/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
