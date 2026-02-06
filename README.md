@@ -8,11 +8,13 @@
 | [0496-next-greater-element-i](https://github.com/imranshahshaik/CodeWars/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/imranshahshaik/CodeWars/tree/master/0704-binary-search) |
 | [0946-validate-stack-sequences](https://github.com/imranshahshaik/CodeWars/tree/master/0946-validate-stack-sequences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/imranshahshaik/CodeWars/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imranshahshaik/CodeWars/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/imranshahshaik/CodeWars/tree/master/0496-next-greater-element-i) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/imranshahshaik/CodeWars/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imranshahshaik/CodeWars/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/imranshahshaik/CodeWars/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
