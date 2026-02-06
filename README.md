@@ -53,6 +53,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/imranshahshaik/CodeWars/tree/master/0009-palindrome-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imranshahshaik/CodeWars/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2235-add-two-integers](https://github.com/imranshahshaik/CodeWars/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
