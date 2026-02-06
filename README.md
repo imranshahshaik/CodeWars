@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imranshahshaik/CodeWars/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/imranshahshaik/CodeWars/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/imranshahshaik/CodeWars/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/imranshahshaik/CodeWars/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/imranshahshaik/CodeWars/tree/master/0704-binary-search) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imranshahshaik/CodeWars/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/imranshahshaik/CodeWars/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/imranshahshaik/CodeWars/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/imranshahshaik/CodeWars/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/imranshahshaik/CodeWars/tree/master/0496-next-greater-element-i) |
@@ -49,6 +51,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/imranshahshaik/CodeWars/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/imranshahshaik/CodeWars/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/imranshahshaik/CodeWars/tree/master/0503-next-greater-element-ii) |
 ## Math
@@ -77,4 +80,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/imranshahshaik/CodeWars/tree/master/1672-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/imranshahshaik/CodeWars/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/imranshahshaik/CodeWars/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
