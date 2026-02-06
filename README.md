@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/imranshahshaik/CodeWars/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/imranshahshaik/CodeWars/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/imranshahshaik/CodeWars/tree/master/0704-binary-search) |
 | [0946-validate-stack-sequences](https://github.com/imranshahshaik/CodeWars/tree/master/0946-validate-stack-sequences) |
 ## Hash Table
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/imranshahshaik/CodeWars/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/imranshahshaik/CodeWars/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
