@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/imranshahshaik/CodeWars/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/imranshahshaik/CodeWars/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/imranshahshaik/CodeWars/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/imranshahshaik/CodeWars/tree/master/0704-binary-search) |
 | [0946-validate-stack-sequences](https://github.com/imranshahshaik/CodeWars/tree/master/0946-validate-stack-sequences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/imranshahshaik/CodeWars/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -30,6 +31,7 @@
 | [0155-min-stack](https://github.com/imranshahshaik/CodeWars/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/imranshahshaik/CodeWars/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/imranshahshaik/CodeWars/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/imranshahshaik/CodeWars/tree/master/0503-next-greater-element-ii) |
 | [0946-validate-stack-sequences](https://github.com/imranshahshaik/CodeWars/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imranshahshaik/CodeWars/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/imranshahshaik/CodeWars/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/imranshahshaik/CodeWars/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
